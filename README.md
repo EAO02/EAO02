@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EAO02
+- 👋 Hi, I’m @0xystar
 - 👀 I’m interested in web3 projects
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on new innvative web3 dexes
