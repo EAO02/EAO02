@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @0xystar
 - 👀 I’m interested in both web2 & web3 projects
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on new innvative web3 dexes
+- 💞️ I’m looking to collaborate on new innvative web3 dapps
 - 📫 How to reach me @EAO_o1
-- 😄 Pronouns: HIM
 - ⚡ Fun fact: i hate idleness
 
 <!---
